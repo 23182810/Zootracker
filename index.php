@@ -73,7 +73,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         </div>
     </div>
     <footer>
-    <p>&copy; 2024 Zootracker System | <a href="https://github.com/ceydagulen/PHP_SQL_PROJECT.git" target="_blank">GitHub Link</a></p>
+    <p>&copy; 2024 Zootracker System | <a href="https://github.com/23182810/Zootracker" target="_blank">GitHub Link</a></p>
 </footer>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
